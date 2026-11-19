@@ -19,7 +19,7 @@
 ## Architecture
 
 <div align="center">
-  <img src="./assets/poolc-aws-architecture.drawio.png" width="100%" alt="PoolC Web Architecture" />
+  <img src="./assets/PoolC_aws_architecture.drawio.png" width="100%" alt="PoolC Web Architecture" />
 </div>
 
 ## Current Maintainer
